@@ -1,0 +1,528 @@
+0, 0, Header, 1, 17, 480
+1, 0, Start_track
+1, 0, Title_t, "untitled"
+1, 0, Copyright_t, "Copyright © 1996 by David J. Grossman"
+1, 0, Text_t, "David J. Grossman"
+1, 0, Text_t, "soggetto with its retrograde\012"
+1, 0, Text_t, "inverted soggetto with its retrograde\012"
+1, 0, Text_t, "soggetto with its inversion\012"
+1, 0, Text_t, "inverted soggetto with its inversion\012"
+1, 0, Text_t, "Canon Duplex a 4\012"
+1, 0, Text_t, "Canon simplex uber besagtes Fundament a 3\012"
+1, 0, Text_t, "Idem a 3\012"
+1, 0, Text_t, "Canon simplex a 3 il soggetto in Alto\012"
+1, 0, Text_t, "Canon in unisono post semifusam a 3\012"
+1, 0, Text_t, "Alio modo per syncopationes et per ligaturas a 2\012"
+1, 0, Text_t, "Canon duplex ubers Fundament a 5\012"
+1, 0, Text_t, "Canon duplex uber Fundamental - Noten a 5\012"
+1, 0, Text_t, "Triplex Canon ( aka BWV 1076 )\012"
+1, 0, Text_t, "Canon a 4 per Augmentationem et Diminutionem\012"
+1, 0, SMPTE_offset, 96, 0, 3, 0, 0
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Key_signature, 1, "major"
+1, 0, Tempo, 600000
+1, 0, End_track
+2, 0, Start_track
+2, 0, MIDI_port, 0
+2, 0, Program_c, 0, 7
+2, 0, Control_c, 0, 7, 100
+2, 0, Control_c, 0, 10, 79
+2, 2640, Note_on_c, 0, 74, 100
+2, 2880, Note_on_c, 0, 74, 0
+2, 2880, Note_on_c, 0, 75, 100
+2, 3120, Note_on_c, 0, 75, 0
+2, 3120, Note_on_c, 0, 76, 100
+2, 3360, Note_on_c, 0, 76, 0
+2, 3360, Note_on_c, 0, 77, 100
+2, 3600, Note_on_c, 0, 77, 0
+2, 3600, Note_on_c, 0, 78, 100
+2, 3840, Note_on_c, 0, 78, 0
+2, 3840, Note_on_c, 0, 79, 100
+2, 3960, Note_on_c, 0, 79, 0
+2, 3960, Note_on_c, 0, 78, 100
+2, 4080, Note_on_c, 0, 78, 0
+2, 4080, Note_on_c, 0, 79, 100
+2, 4200, Note_on_c, 0, 79, 0
+2, 4200, Note_on_c, 0, 81, 100
+2, 4320, Note_on_c, 0, 81, 0
+2, 4320, Note_on_c, 0, 83, 100
+2, 4560, Note_on_c, 0, 83, 0
+2, 5040, Note_on_c, 0, 78, 100
+2, 5280, Note_on_c, 0, 78, 0
+2, 5280, Note_on_c, 0, 71, 100
+2, 5400, Note_on_c, 0, 71, 0
+2, 5400, Note_on_c, 0, 73, 100
+2, 5520, Note_on_c, 0, 73, 0
+2, 5520, Note_on_c, 0, 74, 100
+2, 5640, Note_on_c, 0, 74, 0
+2, 5640, Note_on_c, 0, 76, 100
+2, 5760, Note_on_c, 0, 76, 0
+2, 5760, Note_on_c, 0, 78, 100
+2, 5880, Note_on_c, 0, 78, 0
+2, 5880, Note_on_c, 0, 76, 100
+2, 6000, Note_on_c, 0, 76, 0
+2, 6000, Note_on_c, 0, 74, 100
+2, 6240, Note_on_c, 0, 74, 0
+2, 6480, Note_on_c, 0, 74, 100
+2, 6720, Note_on_c, 0, 74, 0
+2, 6720, Note_on_c, 0, 75, 100
+2, 6960, Note_on_c, 0, 75, 0
+2, 6960, Note_on_c, 0, 76, 100
+2, 7200, Note_on_c, 0, 76, 0
+2, 7200, Note_on_c, 0, 77, 100
+2, 7440, Note_on_c, 0, 77, 0
+2, 7440, Note_on_c, 0, 78, 100
+2, 7680, Note_on_c, 0, 78, 0
+2, 7680, Note_on_c, 0, 79, 100
+2, 7800, Note_on_c, 0, 79, 0
+2, 7800, Note_on_c, 0, 78, 100
+2, 7920, Note_on_c, 0, 78, 0
+2, 7920, Note_on_c, 0, 79, 100
+2, 8040, Note_on_c, 0, 79, 0
+2, 8040, Note_on_c, 0, 81, 100
+2, 8160, Note_on_c, 0, 81, 0
+2, 8160, Note_on_c, 0, 83, 100
+2, 8400, Note_on_c, 0, 83, 0
+2, 8880, Note_on_c, 0, 78, 100
+2, 9120, Note_on_c, 0, 78, 0
+2, 9120, Note_on_c, 0, 71, 100
+2, 9240, Note_on_c, 0, 71, 0
+2, 9240, Note_on_c, 0, 73, 100
+2, 9360, Note_on_c, 0, 73, 0
+2, 9360, Note_on_c, 0, 74, 100
+2, 9480, Note_on_c, 0, 74, 0
+2, 9480, Note_on_c, 0, 76, 100
+2, 9600, Note_on_c, 0, 76, 0
+2, 9600, Note_on_c, 0, 78, 100
+2, 9720, Note_on_c, 0, 78, 0
+2, 9720, Note_on_c, 0, 76, 100
+2, 9840, Note_on_c, 0, 76, 0
+2, 9840, Note_on_c, 0, 74, 100
+2, 10080, Note_on_c, 0, 74, 0
+2, 10320, Note_on_c, 0, 74, 100
+2, 10560, Note_on_c, 0, 74, 0
+2, 10560, Note_on_c, 0, 75, 100
+2, 10800, Note_on_c, 0, 75, 0
+2, 10800, Note_on_c, 0, 76, 100
+2, 11040, Note_on_c, 0, 76, 0
+2, 11040, Note_on_c, 0, 77, 100
+2, 11280, Note_on_c, 0, 77, 0
+2, 11280, Note_on_c, 0, 78, 100
+2, 11520, Note_on_c, 0, 78, 0
+2, 11520, Note_on_c, 0, 79, 100
+2, 13440, Note_on_c, 0, 79, 0
+2, 13440, End_track
+3, 0, Start_track
+3, 0, MIDI_port, 0
+3, 0, Program_c, 1, 7
+3, 0, Control_c, 1, 7, 100
+3, 0, Control_c, 1, 10, 69
+3, 720, Note_on_c, 1, 71, 100
+3, 960, Note_on_c, 1, 71, 0
+3, 960, Note_on_c, 1, 70, 100
+3, 1200, Note_on_c, 1, 70, 0
+3, 1200, Note_on_c, 1, 69, 100
+3, 1440, Note_on_c, 1, 69, 0
+3, 1440, Note_on_c, 1, 68, 100
+3, 1680, Note_on_c, 1, 68, 0
+3, 1680, Note_on_c, 1, 67, 100
+3, 1920, Note_on_c, 1, 67, 0
+3, 1920, Note_on_c, 1, 66, 100
+3, 2040, Note_on_c, 1, 66, 0
+3, 2040, Note_on_c, 1, 67, 100
+3, 2160, Note_on_c, 1, 67, 0
+3, 2160, Note_on_c, 1, 66, 100
+3, 2280, Note_on_c, 1, 66, 0
+3, 2280, Note_on_c, 1, 64, 100
+3, 2400, Note_on_c, 1, 64, 0
+3, 2400, Note_on_c, 1, 62, 100
+3, 2640, Note_on_c, 1, 62, 0
+3, 3120, Note_on_c, 1, 67, 100
+3, 3360, Note_on_c, 1, 67, 0
+3, 3360, Note_on_c, 1, 74, 100
+3, 3480, Note_on_c, 1, 74, 0
+3, 3480, Note_on_c, 1, 72, 100
+3, 3600, Note_on_c, 1, 72, 0
+3, 3600, Note_on_c, 1, 71, 100
+3, 3720, Note_on_c, 1, 71, 0
+3, 3720, Note_on_c, 1, 69, 100
+3, 3840, Note_on_c, 1, 69, 0
+3, 3840, Note_on_c, 1, 67, 100
+3, 3960, Note_on_c, 1, 67, 0
+3, 3960, Note_on_c, 1, 69, 100
+3, 4080, Note_on_c, 1, 69, 0
+3, 4080, Note_on_c, 1, 71, 100
+3, 4320, Note_on_c, 1, 71, 0
+3, 4560, Note_on_c, 1, 71, 100
+3, 4800, Note_on_c, 1, 71, 0
+3, 4800, Note_on_c, 1, 70, 100
+3, 5040, Note_on_c, 1, 70, 0
+3, 5040, Note_on_c, 1, 69, 100
+3, 5280, Note_on_c, 1, 69, 0
+3, 5280, Note_on_c, 1, 68, 100
+3, 5520, Note_on_c, 1, 68, 0
+3, 5520, Note_on_c, 1, 67, 100
+3, 5760, Note_on_c, 1, 67, 0
+3, 5760, Note_on_c, 1, 66, 100
+3, 5880, Note_on_c, 1, 66, 0
+3, 5880, Note_on_c, 1, 67, 100
+3, 6000, Note_on_c, 1, 67, 0
+3, 6000, Note_on_c, 1, 66, 100
+3, 6120, Note_on_c, 1, 66, 0
+3, 6120, Note_on_c, 1, 64, 100
+3, 6240, Note_on_c, 1, 64, 0
+3, 6240, Note_on_c, 1, 62, 100
+3, 6480, Note_on_c, 1, 62, 0
+3, 6960, Note_on_c, 1, 67, 100
+3, 7200, Note_on_c, 1, 67, 0
+3, 7200, Note_on_c, 1, 74, 100
+3, 7320, Note_on_c, 1, 74, 0
+3, 7320, Note_on_c, 1, 72, 100
+3, 7440, Note_on_c, 1, 72, 0
+3, 7440, Note_on_c, 1, 71, 100
+3, 7560, Note_on_c, 1, 71, 0
+3, 7560, Note_on_c, 1, 69, 100
+3, 7680, Note_on_c, 1, 69, 0
+3, 7680, Note_on_c, 1, 67, 100
+3, 7800, Note_on_c, 1, 67, 0
+3, 7800, Note_on_c, 1, 69, 100
+3, 7920, Note_on_c, 1, 69, 0
+3, 7920, Note_on_c, 1, 71, 100
+3, 8160, Note_on_c, 1, 71, 0
+3, 8400, Note_on_c, 1, 71, 100
+3, 8640, Note_on_c, 1, 71, 0
+3, 8640, Note_on_c, 1, 70, 100
+3, 8880, Note_on_c, 1, 70, 0
+3, 8880, Note_on_c, 1, 69, 100
+3, 9120, Note_on_c, 1, 69, 0
+3, 9120, Note_on_c, 1, 68, 100
+3, 9360, Note_on_c, 1, 68, 0
+3, 9360, Note_on_c, 1, 67, 100
+3, 9600, Note_on_c, 1, 67, 0
+3, 9600, Note_on_c, 1, 66, 100
+3, 9720, Note_on_c, 1, 66, 0
+3, 9720, Note_on_c, 1, 67, 100
+3, 9840, Note_on_c, 1, 67, 0
+3, 9840, Note_on_c, 1, 66, 100
+3, 9960, Note_on_c, 1, 66, 0
+3, 9960, Note_on_c, 1, 64, 100
+3, 10080, Note_on_c, 1, 64, 0
+3, 10080, Note_on_c, 1, 62, 100
+3, 10320, Note_on_c, 1, 62, 0
+3, 10800, Note_on_c, 1, 67, 100
+3, 11040, Note_on_c, 1, 67, 0
+3, 11040, Note_on_c, 1, 74, 100
+3, 11160, Note_on_c, 1, 74, 0
+3, 11160, Note_on_c, 1, 72, 100
+3, 11280, Note_on_c, 1, 72, 0
+3, 11280, Note_on_c, 1, 71, 100
+3, 11400, Note_on_c, 1, 71, 0
+3, 11400, Note_on_c, 1, 69, 100
+3, 11520, Note_on_c, 1, 69, 0
+3, 11520, Note_on_c, 1, 67, 100
+3, 13440, Note_on_c, 1, 67, 0
+3, 13440, End_track
+4, 0, Start_track
+4, 0, MIDI_port, 0
+4, 0, Title_t, "--------------------------------------"
+4, 0, Program_c, 2, 7
+4, 0, Control_c, 2, 7, 100
+4, 0, Control_c, 2, 10, 59
+4, 2640, Note_on_c, 2, 62, 100
+4, 2880, Note_on_c, 2, 62, 0
+4, 2880, Note_on_c, 2, 60, 100
+4, 3120, Note_on_c, 2, 60, 0
+4, 3120, Note_on_c, 2, 58, 100
+4, 3360, Note_on_c, 2, 58, 0
+4, 3360, Note_on_c, 2, 57, 100
+4, 3600, Note_on_c, 2, 57, 0
+4, 3600, Note_on_c, 2, 62, 100
+4, 3720, Note_on_c, 2, 62, 0
+4, 3720, Note_on_c, 2, 60, 100
+4, 3840, Note_on_c, 2, 60, 0
+4, 3840, Note_on_c, 2, 59, 100
+4, 4080, Note_on_c, 2, 59, 0
+4, 4200, Note_on_c, 2, 64, 100
+4, 4320, Note_on_c, 2, 64, 0
+4, 4320, Note_on_c, 2, 62, 100
+4, 4440, Note_on_c, 2, 62, 0
+4, 4440, Note_on_c, 2, 61, 100
+4, 4560, Note_on_c, 2, 61, 0
+4, 4560, Note_on_c, 2, 62, 100
+4, 4680, Note_on_c, 2, 62, 0
+4, 4680, Note_on_c, 2, 64, 100
+4, 4800, Note_on_c, 2, 64, 0
+4, 4800, Note_on_c, 2, 66, 100
+4, 5280, Note_on_c, 2, 66, 0
+4, 5520, Note_on_c, 2, 71, 100
+4, 5760, Note_on_c, 2, 71, 0
+4, 5760, Note_on_c, 2, 59, 100
+4, 6120, Note_on_c, 2, 59, 0
+4, 6120, Note_on_c, 2, 61, 100
+4, 6240, Note_on_c, 2, 61, 0
+4, 6240, Note_on_c, 2, 62, 100
+4, 6360, Note_on_c, 2, 62, 0
+4, 6360, Note_on_c, 2, 64, 100
+4, 6480, Note_on_c, 2, 64, 0
+4, 6480, Note_on_c, 2, 62, 100
+4, 6720, Note_on_c, 2, 62, 0
+4, 6720, Note_on_c, 2, 60, 100
+4, 7080, Note_on_c, 2, 60, 0
+4, 7080, Note_on_c, 2, 58, 100
+4, 7200, Note_on_c, 2, 58, 0
+4, 7200, Note_on_c, 2, 57, 100
+4, 7440, Note_on_c, 2, 57, 0
+4, 7440, Note_on_c, 2, 62, 100
+4, 7560, Note_on_c, 2, 62, 0
+4, 7560, Note_on_c, 2, 60, 100
+4, 7680, Note_on_c, 2, 60, 0
+4, 7680, Note_on_c, 2, 59, 100
+4, 7920, Note_on_c, 2, 59, 0
+4, 8040, Note_on_c, 2, 64, 100
+4, 8160, Note_on_c, 2, 64, 0
+4, 8160, Note_on_c, 2, 62, 100
+4, 8280, Note_on_c, 2, 62, 0
+4, 8280, Note_on_c, 2, 61, 100
+4, 8400, Note_on_c, 2, 61, 0
+4, 8400, Note_on_c, 2, 62, 100
+4, 8520, Note_on_c, 2, 62, 0
+4, 8520, Note_on_c, 2, 64, 100
+4, 8640, Note_on_c, 2, 64, 0
+4, 8640, Note_on_c, 2, 66, 100
+4, 9120, Note_on_c, 2, 66, 0
+4, 9360, Note_on_c, 2, 71, 100
+4, 9600, Note_on_c, 2, 71, 0
+4, 9600, Note_on_c, 2, 59, 100
+4, 9960, Note_on_c, 2, 59, 0
+4, 9960, Note_on_c, 2, 61, 100
+4, 10080, Note_on_c, 2, 61, 0
+4, 10080, Note_on_c, 2, 62, 100
+4, 10200, Note_on_c, 2, 62, 0
+4, 10200, Note_on_c, 2, 64, 100
+4, 10320, Note_on_c, 2, 64, 0
+4, 10320, Note_on_c, 2, 62, 100
+4, 10560, Note_on_c, 2, 62, 0
+4, 10560, Note_on_c, 2, 60, 100
+4, 10920, Note_on_c, 2, 60, 0
+4, 10920, Note_on_c, 2, 58, 100
+4, 11040, Note_on_c, 2, 58, 0
+4, 11040, Note_on_c, 2, 57, 100
+4, 11280, Note_on_c, 2, 57, 0
+4, 11280, Note_on_c, 2, 62, 100
+4, 11400, Note_on_c, 2, 62, 0
+4, 11400, Note_on_c, 2, 60, 100
+4, 11520, Note_on_c, 2, 60, 0
+4, 11520, Note_on_c, 2, 59, 100
+4, 13440, Note_on_c, 2, 59, 0
+4, 13440, End_track
+5, 0, Start_track
+5, 0, MIDI_port, 0
+5, 0, Title_t, "Johann Sebastian Bach  (1685-1750)"
+5, 0, Program_c, 3, 7
+5, 0, Control_c, 3, 7, 100
+5, 0, Control_c, 3, 10, 49
+5, 720, Note_on_c, 3, 59, 100
+5, 960, Note_on_c, 3, 59, 0
+5, 960, Note_on_c, 3, 61, 100
+5, 1320, Note_on_c, 3, 61, 0
+5, 1320, Note_on_c, 3, 63, 100
+5, 1440, Note_on_c, 3, 63, 0
+5, 1440, Note_on_c, 3, 64, 100
+5, 1680, Note_on_c, 3, 64, 0
+5, 1680, Note_on_c, 3, 59, 100
+5, 1800, Note_on_c, 3, 59, 0
+5, 1800, Note_on_c, 3, 61, 100
+5, 1920, Note_on_c, 3, 61, 0
+5, 1920, Note_on_c, 3, 62, 100
+5, 2160, Note_on_c, 3, 62, 0
+5, 2280, Note_on_c, 3, 57, 100
+5, 2400, Note_on_c, 3, 57, 0
+5, 2400, Note_on_c, 3, 59, 100
+5, 2520, Note_on_c, 3, 59, 0
+5, 2520, Note_on_c, 3, 60, 100
+5, 2640, Note_on_c, 3, 60, 0
+5, 2640, Note_on_c, 3, 59, 100
+5, 2760, Note_on_c, 3, 59, 0
+5, 2760, Note_on_c, 3, 57, 100
+5, 2880, Note_on_c, 3, 57, 0
+5, 2880, Note_on_c, 3, 55, 100
+5, 3360, Note_on_c, 3, 55, 0
+5, 3600, Note_on_c, 3, 50, 100
+5, 3840, Note_on_c, 3, 50, 0
+5, 3840, Note_on_c, 3, 62, 100
+5, 4200, Note_on_c, 3, 62, 0
+5, 4200, Note_on_c, 3, 60, 100
+5, 4320, Note_on_c, 3, 60, 0
+5, 4320, Note_on_c, 3, 59, 100
+5, 4440, Note_on_c, 3, 59, 0
+5, 4440, Note_on_c, 3, 57, 100
+5, 4560, Note_on_c, 3, 57, 0
+5, 4560, Note_on_c, 3, 59, 100
+5, 4800, Note_on_c, 3, 59, 0
+5, 4800, Note_on_c, 3, 61, 100
+5, 5160, Note_on_c, 3, 61, 0
+5, 5160, Note_on_c, 3, 63, 100
+5, 5280, Note_on_c, 3, 63, 0
+5, 5280, Note_on_c, 3, 64, 100
+5, 5520, Note_on_c, 3, 64, 0
+5, 5520, Note_on_c, 3, 59, 100
+5, 5640, Note_on_c, 3, 59, 0
+5, 5640, Note_on_c, 3, 61, 100
+5, 5760, Note_on_c, 3, 61, 0
+5, 5760, Note_on_c, 3, 62, 100
+5, 6000, Note_on_c, 3, 62, 0
+5, 6120, Note_on_c, 3, 57, 100
+5, 6240, Note_on_c, 3, 57, 0
+5, 6240, Note_on_c, 3, 59, 100
+5, 6360, Note_on_c, 3, 59, 0
+5, 6360, Note_on_c, 3, 60, 100
+5, 6480, Note_on_c, 3, 60, 0
+5, 6480, Note_on_c, 3, 59, 100
+5, 6600, Note_on_c, 3, 59, 0
+5, 6600, Note_on_c, 3, 57, 100
+5, 6720, Note_on_c, 3, 57, 0
+5, 6720, Note_on_c, 3, 55, 100
+5, 7200, Note_on_c, 3, 55, 0
+5, 7440, Note_on_c, 3, 50, 100
+5, 7680, Note_on_c, 3, 50, 0
+5, 7680, Note_on_c, 3, 62, 100
+5, 8040, Note_on_c, 3, 62, 0
+5, 8040, Note_on_c, 3, 60, 100
+5, 8160, Note_on_c, 3, 60, 0
+5, 8160, Note_on_c, 3, 59, 100
+5, 8280, Note_on_c, 3, 59, 0
+5, 8280, Note_on_c, 3, 57, 100
+5, 8400, Note_on_c, 3, 57, 0
+5, 8400, Note_on_c, 3, 59, 100
+5, 8640, Note_on_c, 3, 59, 0
+5, 8640, Note_on_c, 3, 61, 100
+5, 9000, Note_on_c, 3, 61, 0
+5, 9000, Note_on_c, 3, 63, 100
+5, 9120, Note_on_c, 3, 63, 0
+5, 9120, Note_on_c, 3, 64, 100
+5, 9360, Note_on_c, 3, 64, 0
+5, 9360, Note_on_c, 3, 59, 100
+5, 9480, Note_on_c, 3, 59, 0
+5, 9480, Note_on_c, 3, 61, 100
+5, 9600, Note_on_c, 3, 61, 0
+5, 9600, Note_on_c, 3, 62, 100
+5, 9840, Note_on_c, 3, 62, 0
+5, 9960, Note_on_c, 3, 57, 100
+5, 10080, Note_on_c, 3, 57, 0
+5, 10080, Note_on_c, 3, 59, 100
+5, 10200, Note_on_c, 3, 59, 0
+5, 10200, Note_on_c, 3, 60, 100
+5, 10320, Note_on_c, 3, 60, 0
+5, 10320, Note_on_c, 3, 59, 100
+5, 10440, Note_on_c, 3, 59, 0
+5, 10440, Note_on_c, 3, 57, 100
+5, 10560, Note_on_c, 3, 57, 0
+5, 10560, Note_on_c, 3, 55, 100
+5, 11040, Note_on_c, 3, 55, 0
+5, 11280, Note_on_c, 3, 50, 100
+5, 11520, Note_on_c, 3, 50, 0
+5, 11520, Note_on_c, 3, 62, 100
+5, 13440, Note_on_c, 3, 62, 0
+5, 13440, End_track
+6, 0, Start_track
+6, 0, MIDI_port, 0
+6, 0, Title_t, "Canone doppio sopr'il soggetto"
+6, 0, Program_c, 4, 7
+6, 0, Control_c, 4, 7, 100
+6, 0, Control_c, 4, 10, 79
+6, 0, Note_on_c, 4, 43, 100
+6, 480, Note_on_c, 4, 43, 0
+6, 480, Note_on_c, 4, 55, 100
+6, 960, Note_on_c, 4, 55, 0
+6, 960, Note_on_c, 4, 54, 100
+6, 1440, Note_on_c, 4, 54, 0
+6, 1440, Note_on_c, 4, 52, 100
+6, 1920, Note_on_c, 4, 52, 0
+6, 1920, Note_on_c, 4, 50, 100
+6, 2400, Note_on_c, 4, 50, 0
+6, 2400, Note_on_c, 4, 47, 100
+6, 2880, Note_on_c, 4, 47, 0
+6, 2880, Note_on_c, 4, 48, 100
+6, 3360, Note_on_c, 4, 48, 0
+6, 3360, Note_on_c, 4, 50, 100
+6, 3840, Note_on_c, 4, 50, 0
+6, 3840, Note_on_c, 4, 43, 100
+6, 4320, Note_on_c, 4, 43, 0
+6, 4320, Note_on_c, 4, 55, 100
+6, 4800, Note_on_c, 4, 55, 0
+6, 4800, Note_on_c, 4, 54, 100
+6, 5280, Note_on_c, 4, 54, 0
+6, 5280, Note_on_c, 4, 52, 100
+6, 5760, Note_on_c, 4, 52, 0
+6, 5760, Note_on_c, 4, 50, 100
+6, 6240, Note_on_c, 4, 50, 0
+6, 6240, Note_on_c, 4, 47, 100
+6, 6720, Note_on_c, 4, 47, 0
+6, 6720, Note_on_c, 4, 48, 100
+6, 7200, Note_on_c, 4, 48, 0
+6, 7200, Note_on_c, 4, 50, 100
+6, 7680, Note_on_c, 4, 50, 0
+6, 7680, Note_on_c, 4, 43, 100
+6, 8160, Note_on_c, 4, 43, 0
+6, 8160, Note_on_c, 4, 55, 100
+6, 8640, Note_on_c, 4, 55, 0
+6, 8640, Note_on_c, 4, 54, 100
+6, 9120, Note_on_c, 4, 54, 0
+6, 9120, Note_on_c, 4, 52, 100
+6, 9600, Note_on_c, 4, 52, 0
+6, 9600, Note_on_c, 4, 50, 100
+6, 10080, Note_on_c, 4, 50, 0
+6, 10080, Note_on_c, 4, 47, 100
+6, 10560, Note_on_c, 4, 47, 0
+6, 10560, Note_on_c, 4, 48, 100
+6, 11040, Note_on_c, 4, 48, 0
+6, 11040, Note_on_c, 4, 50, 100
+6, 11520, Note_on_c, 4, 50, 0
+6, 11520, Note_on_c, 4, 43, 100
+6, 13440, Note_on_c, 4, 43, 0
+6, 13440, End_track
+7, 0, Start_track
+7, 0, MIDI_port, 0
+7, 0, Title_t, "BWV 1077"
+7, 0, End_track
+8, 0, Start_track
+8, 0, MIDI_port, 0
+8, 0, Title_t, "--------------------------------------"
+8, 0, End_track
+9, 0, Start_track
+9, 0, MIDI_port, 0
+9, 0, Title_t, "Sequenced with Cakewalk Pro Audio by"
+9, 0, End_track
+10, 0, Start_track
+10, 0, MIDI_port, 0
+10, 0, Title_t, "David J. Grossman - dave@unpronounceable.com"
+10, 0, End_track
+11, 0, Start_track
+11, 0, MIDI_port, 0
+11, 0, Title_t, "This and other Bach MIDI files can be found at:"
+11, 0, End_track
+12, 0, Start_track
+12, 0, MIDI_port, 0
+12, 0, Title_t, "Dave's J.S. Bach Page"
+12, 0, End_track
+13, 0, Start_track
+13, 0, MIDI_port, 0
+13, 0, Title_t, "http://www.unpronounceable.com/bach"
+13, 0, End_track
+14, 0, Start_track
+14, 0, MIDI_port, 0
+14, 0, Title_t, "For more info about this work, check out:"
+14, 0, End_track
+15, 0, Start_track
+15, 0, MIDI_port, 0
+15, 0, Title_t, "http://jan.ucc.nau.edu/~tas3/bachindex.html"
+15, 0, End_track
+16, 0, Start_track
+16, 0, MIDI_port, 0
+16, 0, Title_t, "Original Filename: bwv1077.mid"
+16, 0, End_track
+17, 0, Start_track
+17, 0, MIDI_port, 0
+17, 0, Title_t, "Last Modified: December 4, 1997"
+17, 0, End_track
+0, 0, End_of_file

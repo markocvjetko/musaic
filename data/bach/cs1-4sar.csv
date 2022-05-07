@@ -1,0 +1,767 @@
+0, 0, Header, 1, 17, 480
+1, 0, Start_track
+1, 0, Title_t, "untitled"
+1, 0, SMPTE_offset, 96, 0, 3, 0, 0
+1, 0, Time_signature, 3, 2, 24, 8
+1, 0, Key_signature, 1, "major"
+1, 0, Tempo, 1200000
+1, 0, Marker_t, "A"
+1, 4800, Marker_t, "*"
+1, 11520, Marker_t, "A'"
+1, 23040, Marker_t, "B"
+1, 34560, Marker_t, "B'"
+1, 45600, Tempo, 3000000
+1, 45600, End_track
+2, 0, Start_track
+2, 0, MIDI_port, 0
+2, 0, Title_t, "Solo Cello"
+2, 0, Program_c, 0, 42
+2, 0, Control_c, 0, 7, 100
+2, 0, Control_c, 0, 10, 69
+2, 0, Note_on_c, 0, 59, 100
+2, 480, Note_on_c, 0, 59, 0
+2, 480, Note_on_c, 0, 60, 100
+2, 1200, Note_on_c, 0, 60, 0
+2, 1200, Note_on_c, 0, 59, 100
+2, 1440, Note_on_c, 0, 59, 0
+2, 1440, Note_on_c, 0, 54, 100
+2, 1560, Note_on_c, 0, 54, 0
+2, 1560, Note_on_c, 0, 57, 100
+2, 1680, Note_on_c, 0, 57, 0
+2, 1680, Note_on_c, 0, 59, 100
+2, 1800, Note_on_c, 0, 59, 0
+2, 1800, Note_on_c, 0, 60, 100
+2, 1920, Note_on_c, 0, 60, 0
+2, 1920, Pitch_bend_c, 0, 12288
+2, 1920, Note_on_c, 0, 59, 100
+2, 1960, Pitch_bend_c, 0, 8192
+2, 2000, Pitch_bend_c, 0, 12288
+2, 2040, Pitch_bend_c, 0, 8192
+2, 2080, Pitch_bend_c, 0, 12288
+2, 2110, Pitch_bend_c, 0, 8192
+2, 2140, Pitch_bend_c, 0, 12288
+2, 2170, Pitch_bend_c, 0, 8192
+2, 2400, Note_on_c, 0, 59, 0
+2, 2400, Note_on_c, 0, 57, 100
+2, 2640, Note_on_c, 0, 57, 0
+2, 2640, Note_on_c, 0, 55, 100
+2, 2880, Note_on_c, 0, 55, 0
+2, 2880, Note_on_c, 0, 62, 100
+2, 3120, Note_on_c, 0, 62, 0
+2, 3120, Note_on_c, 0, 53, 100
+2, 3360, Note_on_c, 0, 53, 0
+2, 3360, Note_on_c, 0, 52, 100
+2, 3720, Note_on_c, 0, 52, 0
+2, 3720, Note_on_c, 0, 50, 100
+2, 3760, Note_on_c, 0, 50, 0
+2, 3760, Note_on_c, 0, 48, 100
+2, 3800, Note_on_c, 0, 48, 0
+2, 3800, Note_on_c, 0, 47, 100
+2, 3840, Note_on_c, 0, 47, 0
+2, 3840, Note_on_c, 0, 48, 100
+2, 4080, Note_on_c, 0, 48, 0
+2, 4080, Note_on_c, 0, 52, 100
+2, 4320, Note_on_c, 0, 52, 0
+2, 4320, Note_on_c, 0, 54, 100
+2, 4440, Note_on_c, 0, 54, 0
+2, 4440, Note_on_c, 0, 60, 100
+2, 4560, Note_on_c, 0, 60, 0
+2, 4560, Note_on_c, 0, 59, 100
+2, 4680, Note_on_c, 0, 59, 0
+2, 4680, Note_on_c, 0, 55, 100
+2, 4800, Note_on_c, 0, 55, 0
+2, 4800, Pitch_bend_c, 0, 12288
+2, 4800, Note_on_c, 0, 54, 100
+2, 4860, Pitch_bend_c, 0, 8192
+2, 4920, Pitch_bend_c, 0, 12288
+2, 4980, Pitch_bend_c, 0, 8192
+2, 5040, Pitch_bend_c, 0, 12288
+2, 5080, Pitch_bend_c, 0, 8192
+2, 5120, Pitch_bend_c, 0, 12288
+2, 5160, Pitch_bend_c, 0, 8192
+2, 5280, Note_on_c, 0, 54, 0
+2, 5280, Note_on_c, 0, 52, 100
+2, 5520, Note_on_c, 0, 52, 0
+2, 5520, Note_on_c, 0, 50, 100
+2, 5760, Note_on_c, 0, 50, 0
+2, 5760, Note_on_c, 0, 57, 100
+2, 5880, Note_on_c, 0, 57, 0
+2, 5880, Note_on_c, 0, 54, 100
+2, 6000, Note_on_c, 0, 54, 0
+2, 6000, Note_on_c, 0, 50, 100
+2, 6120, Note_on_c, 0, 50, 0
+2, 6120, Note_on_c, 0, 48, 100
+2, 6240, Note_on_c, 0, 48, 0
+2, 6240, Note_on_c, 0, 47, 100
+2, 6600, Note_on_c, 0, 47, 0
+2, 6600, Note_on_c, 0, 43, 100
+2, 6720, Note_on_c, 0, 43, 0
+2, 6720, Note_on_c, 0, 47, 100
+2, 6840, Note_on_c, 0, 47, 0
+2, 6840, Note_on_c, 0, 50, 100
+2, 6960, Note_on_c, 0, 50, 0
+2, 6960, Note_on_c, 0, 55, 100
+2, 7080, Note_on_c, 0, 55, 0
+2, 7080, Note_on_c, 0, 57, 100
+2, 7200, Note_on_c, 0, 57, 0
+2, 7200, Note_on_c, 0, 59, 100
+2, 7320, Note_on_c, 0, 59, 0
+2, 7320, Note_on_c, 0, 55, 100
+2, 7440, Note_on_c, 0, 55, 0
+2, 7440, Note_on_c, 0, 52, 100
+2, 7560, Note_on_c, 0, 52, 0
+2, 7560, Note_on_c, 0, 50, 100
+2, 7680, Note_on_c, 0, 50, 0
+2, 7680, Pitch_bend_c, 0, 12288
+2, 7680, Note_on_c, 0, 49, 100
+2, 7720, Pitch_bend_c, 0, 8192
+2, 7760, Pitch_bend_c, 0, 12288
+2, 7800, Pitch_bend_c, 0, 8192
+2, 8040, Note_on_c, 0, 49, 0
+2, 8040, Note_on_c, 0, 45, 100
+2, 8100, Note_on_c, 0, 45, 0
+2, 8100, Note_on_c, 0, 47, 100
+2, 8160, Note_on_c, 0, 47, 0
+2, 8160, Note_on_c, 0, 49, 100
+2, 8280, Note_on_c, 0, 49, 0
+2, 8280, Note_on_c, 0, 50, 100
+2, 8400, Note_on_c, 0, 50, 0
+2, 8400, Note_on_c, 0, 52, 100
+2, 8520, Note_on_c, 0, 52, 0
+2, 8520, Note_on_c, 0, 54, 100
+2, 8640, Note_on_c, 0, 54, 0
+2, 8640, Note_on_c, 0, 55, 100
+2, 8760, Note_on_c, 0, 55, 0
+2, 8760, Note_on_c, 0, 61, 100
+2, 8880, Note_on_c, 0, 61, 0
+2, 8880, Note_on_c, 0, 62, 100
+2, 9000, Note_on_c, 0, 62, 0
+2, 9000, Note_on_c, 0, 61, 100
+2, 9120, Note_on_c, 0, 61, 0
+2, 9120, Note_on_c, 0, 62, 100
+2, 9240, Note_on_c, 0, 62, 0
+2, 9240, Note_on_c, 0, 57, 100
+2, 9360, Note_on_c, 0, 57, 0
+2, 9360, Note_on_c, 0, 55, 100
+2, 9480, Note_on_c, 0, 55, 0
+2, 9480, Note_on_c, 0, 54, 100
+2, 9600, Note_on_c, 0, 54, 0
+2, 9600, Note_on_c, 0, 52, 100
+2, 9720, Note_on_c, 0, 52, 0
+2, 9720, Note_on_c, 0, 55, 100
+2, 9840, Note_on_c, 0, 55, 0
+2, 9840, Note_on_c, 0, 54, 100
+2, 9960, Note_on_c, 0, 54, 0
+2, 9960, Note_on_c, 0, 50, 100
+2, 10080, Note_on_c, 0, 50, 0
+2, 10080, Note_on_c, 0, 45, 100
+2, 10200, Note_on_c, 0, 45, 0
+2, 10200, Note_on_c, 0, 50, 100
+2, 10320, Note_on_c, 0, 50, 0
+2, 10320, Note_on_c, 0, 52, 100
+2, 10440, Note_on_c, 0, 52, 0
+2, 10440, Note_on_c, 0, 49, 100
+2, 10560, Note_on_c, 0, 49, 0
+2, 10560, Note_on_c, 0, 50, 100
+2, 11040, Note_on_c, 0, 50, 0
+2, 11040, Note_on_c, 0, 38, 100
+2, 11520, Note_on_c, 0, 38, 0
+2, 11520, Note_on_c, 0, 59, 100
+2, 12000, Note_on_c, 0, 59, 0
+2, 12000, Note_on_c, 0, 60, 100
+2, 12720, Note_on_c, 0, 60, 0
+2, 12720, Note_on_c, 0, 59, 100
+2, 12960, Note_on_c, 0, 59, 0
+2, 12960, Note_on_c, 0, 54, 100
+2, 13080, Note_on_c, 0, 54, 0
+2, 13080, Note_on_c, 0, 57, 100
+2, 13200, Note_on_c, 0, 57, 0
+2, 13200, Note_on_c, 0, 59, 100
+2, 13320, Note_on_c, 0, 59, 0
+2, 13320, Note_on_c, 0, 60, 100
+2, 13440, Note_on_c, 0, 60, 0
+2, 13440, Pitch_bend_c, 0, 12288
+2, 13440, Note_on_c, 0, 59, 100
+2, 13480, Pitch_bend_c, 0, 8192
+2, 13520, Pitch_bend_c, 0, 12288
+2, 13560, Pitch_bend_c, 0, 8192
+2, 13600, Pitch_bend_c, 0, 12288
+2, 13630, Pitch_bend_c, 0, 8192
+2, 13660, Pitch_bend_c, 0, 12288
+2, 13690, Pitch_bend_c, 0, 8192
+2, 13920, Note_on_c, 0, 59, 0
+2, 13920, Note_on_c, 0, 57, 100
+2, 14160, Note_on_c, 0, 57, 0
+2, 14160, Note_on_c, 0, 55, 100
+2, 14400, Note_on_c, 0, 55, 0
+2, 14400, Note_on_c, 0, 62, 100
+2, 14640, Note_on_c, 0, 62, 0
+2, 14640, Note_on_c, 0, 53, 100
+2, 14880, Note_on_c, 0, 53, 0
+2, 14880, Note_on_c, 0, 52, 100
+2, 15240, Note_on_c, 0, 52, 0
+2, 15240, Note_on_c, 0, 50, 100
+2, 15280, Note_on_c, 0, 50, 0
+2, 15280, Note_on_c, 0, 48, 100
+2, 15320, Note_on_c, 0, 48, 0
+2, 15320, Note_on_c, 0, 47, 100
+2, 15360, Note_on_c, 0, 47, 0
+2, 15360, Note_on_c, 0, 48, 100
+2, 15600, Note_on_c, 0, 48, 0
+2, 15600, Note_on_c, 0, 52, 100
+2, 15840, Note_on_c, 0, 52, 0
+2, 15840, Note_on_c, 0, 54, 100
+2, 15960, Note_on_c, 0, 54, 0
+2, 15960, Note_on_c, 0, 60, 100
+2, 16080, Note_on_c, 0, 60, 0
+2, 16080, Note_on_c, 0, 59, 100
+2, 16200, Note_on_c, 0, 59, 0
+2, 16200, Note_on_c, 0, 55, 100
+2, 16320, Note_on_c, 0, 55, 0
+2, 16320, Pitch_bend_c, 0, 12288
+2, 16320, Note_on_c, 0, 54, 100
+2, 16380, Pitch_bend_c, 0, 8192
+2, 16440, Pitch_bend_c, 0, 12288
+2, 16500, Pitch_bend_c, 0, 8192
+2, 16560, Pitch_bend_c, 0, 12288
+2, 16600, Pitch_bend_c, 0, 8192
+2, 16640, Pitch_bend_c, 0, 12288
+2, 16680, Pitch_bend_c, 0, 8192
+2, 16800, Note_on_c, 0, 54, 0
+2, 16800, Note_on_c, 0, 52, 100
+2, 17040, Note_on_c, 0, 52, 0
+2, 17040, Note_on_c, 0, 50, 100
+2, 17280, Note_on_c, 0, 50, 0
+2, 17280, Note_on_c, 0, 57, 100
+2, 17400, Note_on_c, 0, 57, 0
+2, 17400, Note_on_c, 0, 54, 100
+2, 17520, Note_on_c, 0, 54, 0
+2, 17520, Note_on_c, 0, 50, 100
+2, 17640, Note_on_c, 0, 50, 0
+2, 17640, Note_on_c, 0, 48, 100
+2, 17760, Note_on_c, 0, 48, 0
+2, 17760, Note_on_c, 0, 47, 100
+2, 18120, Note_on_c, 0, 47, 0
+2, 18120, Note_on_c, 0, 43, 100
+2, 18240, Note_on_c, 0, 43, 0
+2, 18240, Note_on_c, 0, 47, 100
+2, 18360, Note_on_c, 0, 47, 0
+2, 18360, Note_on_c, 0, 50, 100
+2, 18480, Note_on_c, 0, 50, 0
+2, 18480, Note_on_c, 0, 55, 100
+2, 18600, Note_on_c, 0, 55, 0
+2, 18600, Note_on_c, 0, 57, 100
+2, 18720, Note_on_c, 0, 57, 0
+2, 18720, Note_on_c, 0, 59, 100
+2, 18840, Note_on_c, 0, 59, 0
+2, 18840, Note_on_c, 0, 55, 100
+2, 18960, Note_on_c, 0, 55, 0
+2, 18960, Note_on_c, 0, 52, 100
+2, 19080, Note_on_c, 0, 52, 0
+2, 19080, Note_on_c, 0, 50, 100
+2, 19200, Note_on_c, 0, 50, 0
+2, 19200, Pitch_bend_c, 0, 12288
+2, 19200, Note_on_c, 0, 49, 100
+2, 19240, Pitch_bend_c, 0, 8192
+2, 19280, Pitch_bend_c, 0, 12288
+2, 19320, Pitch_bend_c, 0, 8192
+2, 19560, Note_on_c, 0, 49, 0
+2, 19560, Note_on_c, 0, 45, 100
+2, 19620, Note_on_c, 0, 45, 0
+2, 19620, Note_on_c, 0, 47, 100
+2, 19680, Note_on_c, 0, 47, 0
+2, 19680, Note_on_c, 0, 49, 100
+2, 19800, Note_on_c, 0, 49, 0
+2, 19800, Note_on_c, 0, 50, 100
+2, 19920, Note_on_c, 0, 50, 0
+2, 19920, Note_on_c, 0, 52, 100
+2, 20040, Note_on_c, 0, 52, 0
+2, 20040, Note_on_c, 0, 54, 100
+2, 20160, Note_on_c, 0, 54, 0
+2, 20160, Note_on_c, 0, 55, 100
+2, 20280, Note_on_c, 0, 55, 0
+2, 20280, Note_on_c, 0, 61, 100
+2, 20400, Note_on_c, 0, 61, 0
+2, 20400, Note_on_c, 0, 62, 100
+2, 20520, Note_on_c, 0, 62, 0
+2, 20520, Note_on_c, 0, 61, 100
+2, 20640, Note_on_c, 0, 61, 0
+2, 20640, Note_on_c, 0, 62, 100
+2, 20760, Note_on_c, 0, 62, 0
+2, 20760, Note_on_c, 0, 57, 100
+2, 20880, Note_on_c, 0, 57, 0
+2, 20880, Note_on_c, 0, 55, 100
+2, 21000, Note_on_c, 0, 55, 0
+2, 21000, Note_on_c, 0, 54, 100
+2, 21120, Note_on_c, 0, 54, 0
+2, 21120, Note_on_c, 0, 52, 100
+2, 21240, Note_on_c, 0, 52, 0
+2, 21240, Note_on_c, 0, 55, 100
+2, 21360, Note_on_c, 0, 55, 0
+2, 21360, Note_on_c, 0, 54, 100
+2, 21480, Note_on_c, 0, 54, 0
+2, 21480, Note_on_c, 0, 50, 100
+2, 21600, Note_on_c, 0, 50, 0
+2, 21600, Note_on_c, 0, 45, 100
+2, 21720, Note_on_c, 0, 45, 0
+2, 21720, Note_on_c, 0, 50, 100
+2, 21840, Note_on_c, 0, 50, 0
+2, 21840, Note_on_c, 0, 52, 100
+2, 21960, Note_on_c, 0, 52, 0
+2, 21960, Note_on_c, 0, 49, 100
+2, 22080, Note_on_c, 0, 49, 0
+2, 22080, Note_on_c, 0, 50, 100
+2, 22560, Note_on_c, 0, 50, 0
+2, 22560, Note_on_c, 0, 38, 100
+2, 23040, Note_on_c, 0, 38, 0
+2, 23040, Note_on_c, 0, 54, 100
+2, 23280, Note_on_c, 0, 54, 0
+2, 23280, Note_on_c, 0, 52, 100
+2, 23400, Note_on_c, 0, 52, 0
+2, 23400, Note_on_c, 0, 50, 100
+2, 23520, Note_on_c, 0, 50, 0
+2, 23520, Note_on_c, 0, 60, 100
+2, 24240, Note_on_c, 0, 60, 0
+2, 24240, Note_on_c, 0, 59, 100
+2, 24360, Note_on_c, 0, 59, 0
+2, 24360, Note_on_c, 0, 57, 100
+2, 24480, Note_on_c, 0, 57, 0
+2, 24480, Note_on_c, 0, 59, 100
+2, 24600, Note_on_c, 0, 59, 0
+2, 24600, Note_on_c, 0, 54, 100
+2, 24720, Note_on_c, 0, 54, 0
+2, 24720, Note_on_c, 0, 55, 100
+2, 24840, Note_on_c, 0, 55, 0
+2, 24840, Note_on_c, 0, 52, 100
+2, 24960, Note_on_c, 0, 52, 0
+2, 24960, Pitch_bend_c, 0, 12288
+2, 24960, Note_on_c, 0, 51, 100
+2, 25000, Pitch_bend_c, 0, 8192
+2, 25040, Pitch_bend_c, 0, 12288
+2, 25080, Pitch_bend_c, 0, 8192
+2, 25320, Note_on_c, 0, 51, 0
+2, 25320, Note_on_c, 0, 52, 100
+2, 25440, Note_on_c, 0, 52, 0
+2, 25440, Note_on_c, 0, 54, 100
+2, 25560, Note_on_c, 0, 54, 0
+2, 25560, Note_on_c, 0, 55, 100
+2, 25680, Note_on_c, 0, 55, 0
+2, 25680, Note_on_c, 0, 57, 100
+2, 25800, Note_on_c, 0, 57, 0
+2, 25800, Note_on_c, 0, 59, 100
+2, 25920, Note_on_c, 0, 59, 0
+2, 25920, Note_on_c, 0, 51, 100
+2, 26040, Note_on_c, 0, 51, 0
+2, 26040, Note_on_c, 0, 57, 100
+2, 26160, Note_on_c, 0, 57, 0
+2, 26160, Note_on_c, 0, 59, 100
+2, 26280, Note_on_c, 0, 59, 0
+2, 26280, Note_on_c, 0, 60, 100
+2, 26400, Note_on_c, 0, 60, 0
+2, 26400, Pitch_bend_c, 0, 12288
+2, 26400, Note_on_c, 0, 59, 100
+2, 26440, Pitch_bend_c, 0, 8192
+2, 26480, Pitch_bend_c, 0, 12288
+2, 26520, Pitch_bend_c, 0, 8192
+2, 26640, Note_on_c, 0, 59, 0
+2, 26640, Note_on_c, 0, 57, 100
+2, 26760, Note_on_c, 0, 57, 0
+2, 26760, Note_on_c, 0, 55, 100
+2, 26880, Note_on_c, 0, 55, 0
+2, 26880, Note_on_c, 0, 54, 100
+2, 27000, Note_on_c, 0, 54, 0
+2, 27000, Note_on_c, 0, 52, 100
+2, 27120, Note_on_c, 0, 52, 0
+2, 27120, Note_on_c, 0, 57, 100
+2, 27240, Note_on_c, 0, 57, 0
+2, 27240, Note_on_c, 0, 54, 100
+2, 27360, Note_on_c, 0, 54, 0
+2, 27360, Note_on_c, 0, 55, 100
+2, 27480, Note_on_c, 0, 55, 0
+2, 27480, Note_on_c, 0, 52, 100
+2, 27600, Note_on_c, 0, 52, 0
+2, 27600, Note_on_c, 0, 54, 100
+2, 27720, Note_on_c, 0, 54, 0
+2, 27720, Note_on_c, 0, 51, 100
+2, 27840, Note_on_c, 0, 51, 0
+2, 27840, Note_on_c, 0, 52, 100
+2, 28320, Note_on_c, 0, 52, 0
+2, 28320, Note_on_c, 0, 40, 100
+2, 28800, Note_on_c, 0, 40, 0
+2, 28800, Note_on_c, 0, 50, 100
+2, 29160, Note_on_c, 0, 50, 0
+2, 29160, Note_on_c, 0, 52, 100
+2, 29220, Note_on_c, 0, 52, 0
+2, 29220, Note_on_c, 0, 53, 100
+2, 29280, Note_on_c, 0, 53, 0
+2, 29280, Note_on_c, 0, 52, 100
+2, 29640, Note_on_c, 0, 52, 0
+2, 29640, Note_on_c, 0, 54, 100
+2, 29760, Note_on_c, 0, 54, 0
+2, 29760, Note_on_c, 0, 55, 100
+2, 29880, Note_on_c, 0, 55, 0
+2, 29880, Note_on_c, 0, 57, 100
+2, 30000, Note_on_c, 0, 57, 0
+2, 30000, Note_on_c, 0, 59, 100
+2, 30120, Note_on_c, 0, 59, 0
+2, 30120, Note_on_c, 0, 60, 100
+2, 30240, Note_on_c, 0, 60, 0
+2, 30240, Note_on_c, 0, 44, 100
+2, 30360, Note_on_c, 0, 44, 0
+2, 30360, Note_on_c, 0, 62, 100
+2, 30480, Note_on_c, 0, 62, 0
+2, 30480, Note_on_c, 0, 60, 100
+2, 30600, Note_on_c, 0, 60, 0
+2, 30600, Note_on_c, 0, 59, 100
+2, 30720, Note_on_c, 0, 59, 0
+2, 30720, Note_on_c, 0, 60, 100
+2, 31080, Note_on_c, 0, 60, 0
+2, 31080, Note_on_c, 0, 59, 100
+2, 31200, Note_on_c, 0, 59, 0
+2, 31200, Note_on_c, 0, 57, 100
+2, 31320, Note_on_c, 0, 57, 0
+2, 31320, Note_on_c, 0, 55, 100
+2, 31440, Note_on_c, 0, 55, 0
+2, 31440, Note_on_c, 0, 54, 100
+2, 31560, Note_on_c, 0, 54, 0
+2, 31560, Note_on_c, 0, 52, 100
+2, 31680, Note_on_c, 0, 52, 0
+2, 31680, Note_on_c, 0, 50, 100
+2, 32280, Note_on_c, 0, 50, 0
+2, 32280, Note_on_c, 0, 52, 100
+2, 32400, Note_on_c, 0, 52, 0
+2, 32400, Note_on_c, 0, 54, 100
+2, 32520, Note_on_c, 0, 54, 0
+2, 32520, Note_on_c, 0, 55, 100
+2, 32640, Note_on_c, 0, 55, 0
+2, 32640, Note_on_c, 0, 57, 100
+2, 32760, Note_on_c, 0, 57, 0
+2, 32760, Note_on_c, 0, 60, 100
+2, 32880, Note_on_c, 0, 60, 0
+2, 32880, Note_on_c, 0, 59, 100
+2, 33000, Note_on_c, 0, 59, 0
+2, 33000, Note_on_c, 0, 55, 100
+2, 33120, Note_on_c, 0, 55, 0
+2, 33120, Note_on_c, 0, 50, 100
+2, 33240, Note_on_c, 0, 50, 0
+2, 33240, Note_on_c, 0, 55, 100
+2, 33360, Note_on_c, 0, 55, 0
+2, 33360, Note_on_c, 0, 57, 100
+2, 33480, Note_on_c, 0, 57, 0
+2, 33480, Note_on_c, 0, 54, 100
+2, 33600, Note_on_c, 0, 54, 0
+2, 33600, Note_on_c, 0, 55, 100
+2, 34080, Note_on_c, 0, 55, 0
+2, 34080, Note_on_c, 0, 43, 100
+2, 34560, Note_on_c, 0, 43, 0
+2, 34560, Note_on_c, 0, 54, 100
+2, 34800, Note_on_c, 0, 54, 0
+2, 34800, Note_on_c, 0, 52, 100
+2, 34920, Note_on_c, 0, 52, 0
+2, 34920, Note_on_c, 0, 50, 100
+2, 35040, Note_on_c, 0, 50, 0
+2, 35040, Note_on_c, 0, 60, 100
+2, 35760, Note_on_c, 0, 60, 0
+2, 35760, Note_on_c, 0, 59, 100
+2, 35880, Note_on_c, 0, 59, 0
+2, 35880, Note_on_c, 0, 57, 100
+2, 36000, Note_on_c, 0, 57, 0
+2, 36000, Note_on_c, 0, 59, 100
+2, 36120, Note_on_c, 0, 59, 0
+2, 36120, Note_on_c, 0, 54, 100
+2, 36240, Note_on_c, 0, 54, 0
+2, 36240, Note_on_c, 0, 55, 100
+2, 36360, Note_on_c, 0, 55, 0
+2, 36360, Note_on_c, 0, 52, 100
+2, 36480, Note_on_c, 0, 52, 0
+2, 36480, Pitch_bend_c, 0, 12288
+2, 36480, Note_on_c, 0, 51, 100
+2, 36520, Pitch_bend_c, 0, 8192
+2, 36560, Pitch_bend_c, 0, 12288
+2, 36600, Pitch_bend_c, 0, 8192
+2, 36840, Note_on_c, 0, 51, 0
+2, 36840, Note_on_c, 0, 52, 100
+2, 36960, Note_on_c, 0, 52, 0
+2, 36960, Note_on_c, 0, 54, 100
+2, 37080, Note_on_c, 0, 54, 0
+2, 37080, Note_on_c, 0, 55, 100
+2, 37200, Note_on_c, 0, 55, 0
+2, 37200, Note_on_c, 0, 57, 100
+2, 37320, Note_on_c, 0, 57, 0
+2, 37320, Note_on_c, 0, 59, 100
+2, 37440, Note_on_c, 0, 59, 0
+2, 37440, Note_on_c, 0, 51, 100
+2, 37560, Note_on_c, 0, 51, 0
+2, 37560, Note_on_c, 0, 57, 100
+2, 37680, Note_on_c, 0, 57, 0
+2, 37680, Note_on_c, 0, 59, 100
+2, 37800, Note_on_c, 0, 59, 0
+2, 37800, Note_on_c, 0, 60, 100
+2, 37920, Note_on_c, 0, 60, 0
+2, 37920, Pitch_bend_c, 0, 12288
+2, 37920, Note_on_c, 0, 59, 100
+2, 37960, Pitch_bend_c, 0, 8192
+2, 38000, Pitch_bend_c, 0, 12288
+2, 38040, Pitch_bend_c, 0, 8192
+2, 38160, Note_on_c, 0, 59, 0
+2, 38160, Note_on_c, 0, 57, 100
+2, 38280, Note_on_c, 0, 57, 0
+2, 38280, Note_on_c, 0, 55, 100
+2, 38400, Note_on_c, 0, 55, 0
+2, 38400, Note_on_c, 0, 54, 100
+2, 38520, Note_on_c, 0, 54, 0
+2, 38520, Note_on_c, 0, 52, 100
+2, 38640, Note_on_c, 0, 52, 0
+2, 38640, Note_on_c, 0, 57, 100
+2, 38760, Note_on_c, 0, 57, 0
+2, 38760, Note_on_c, 0, 54, 100
+2, 38880, Note_on_c, 0, 54, 0
+2, 38880, Note_on_c, 0, 55, 100
+2, 39000, Note_on_c, 0, 55, 0
+2, 39000, Note_on_c, 0, 52, 100
+2, 39120, Note_on_c, 0, 52, 0
+2, 39120, Note_on_c, 0, 54, 100
+2, 39240, Note_on_c, 0, 54, 0
+2, 39240, Note_on_c, 0, 51, 100
+2, 39360, Note_on_c, 0, 51, 0
+2, 39360, Note_on_c, 0, 52, 100
+2, 39840, Note_on_c, 0, 52, 0
+2, 39840, Note_on_c, 0, 40, 100
+2, 40320, Note_on_c, 0, 40, 0
+2, 40320, Note_on_c, 0, 50, 100
+2, 40680, Note_on_c, 0, 50, 0
+2, 40680, Note_on_c, 0, 52, 100
+2, 40740, Note_on_c, 0, 52, 0
+2, 40740, Note_on_c, 0, 53, 100
+2, 40800, Note_on_c, 0, 53, 0
+2, 40800, Note_on_c, 0, 52, 100
+2, 41160, Note_on_c, 0, 52, 0
+2, 41160, Note_on_c, 0, 54, 100
+2, 41280, Note_on_c, 0, 54, 0
+2, 41280, Note_on_c, 0, 55, 100
+2, 41400, Note_on_c, 0, 55, 0
+2, 41400, Note_on_c, 0, 57, 100
+2, 41520, Note_on_c, 0, 57, 0
+2, 41520, Note_on_c, 0, 59, 100
+2, 41640, Note_on_c, 0, 59, 0
+2, 41640, Note_on_c, 0, 60, 100
+2, 41760, Note_on_c, 0, 60, 0
+2, 41760, Note_on_c, 0, 44, 100
+2, 41880, Note_on_c, 0, 44, 0
+2, 41880, Note_on_c, 0, 62, 100
+2, 42000, Note_on_c, 0, 62, 0
+2, 42000, Note_on_c, 0, 60, 100
+2, 42120, Note_on_c, 0, 60, 0
+2, 42120, Note_on_c, 0, 59, 100
+2, 42240, Note_on_c, 0, 59, 0
+2, 42240, Note_on_c, 0, 60, 100
+2, 42600, Note_on_c, 0, 60, 0
+2, 42600, Note_on_c, 0, 59, 100
+2, 42720, Note_on_c, 0, 59, 0
+2, 42720, Note_on_c, 0, 57, 100
+2, 42840, Note_on_c, 0, 57, 0
+2, 42840, Note_on_c, 0, 55, 100
+2, 42960, Note_on_c, 0, 55, 0
+2, 42960, Note_on_c, 0, 54, 100
+2, 43080, Note_on_c, 0, 54, 0
+2, 43080, Note_on_c, 0, 52, 100
+2, 43200, Note_on_c, 0, 52, 0
+2, 43200, Note_on_c, 0, 50, 100
+2, 43800, Note_on_c, 0, 50, 0
+2, 43800, Note_on_c, 0, 52, 100
+2, 43920, Note_on_c, 0, 52, 0
+2, 43920, Note_on_c, 0, 54, 100
+2, 44040, Note_on_c, 0, 54, 0
+2, 44040, Note_on_c, 0, 55, 100
+2, 44160, Note_on_c, 0, 55, 0
+2, 44160, Note_on_c, 0, 57, 100
+2, 44280, Note_on_c, 0, 57, 0
+2, 44280, Note_on_c, 0, 60, 100
+2, 44400, Note_on_c, 0, 60, 0
+2, 44400, Note_on_c, 0, 59, 100
+2, 44520, Note_on_c, 0, 59, 0
+2, 44520, Note_on_c, 0, 55, 100
+2, 44640, Note_on_c, 0, 55, 0
+2, 44640, Note_on_c, 0, 50, 100
+2, 44760, Note_on_c, 0, 50, 0
+2, 44760, Note_on_c, 0, 55, 100
+2, 44880, Note_on_c, 0, 55, 0
+2, 44880, Note_on_c, 0, 57, 100
+2, 45000, Note_on_c, 0, 57, 0
+2, 45000, Note_on_c, 0, 54, 100
+2, 45120, Note_on_c, 0, 54, 0
+2, 45120, Note_on_c, 0, 55, 100
+2, 45600, Note_on_c, 0, 55, 0
+2, 45600, Note_on_c, 0, 43, 100
+2, 46080, Note_on_c, 0, 43, 0
+2, 46080, End_track
+3, 0, Start_track
+3, 0, MIDI_port, 0
+3, 0, Title_t, "--------------------------------------"
+3, 0, Program_c, 1, 42
+3, 0, Control_c, 1, 7, 100
+3, 0, Control_c, 1, 10, 59
+3, 0, Note_on_c, 1, 50, 100
+3, 480, Note_on_c, 1, 50, 0
+3, 480, Note_on_c, 1, 52, 100
+3, 1440, Note_on_c, 1, 52, 0
+3, 1920, Note_on_c, 1, 50, 100
+3, 2400, Note_on_c, 1, 50, 0
+3, 4800, Note_on_c, 1, 45, 100
+3, 5280, Note_on_c, 1, 45, 0
+3, 11520, Note_on_c, 1, 50, 100
+3, 12000, Note_on_c, 1, 50, 0
+3, 12000, Note_on_c, 1, 52, 100
+3, 12960, Note_on_c, 1, 52, 0
+3, 13440, Note_on_c, 1, 50, 100
+3, 13920, Note_on_c, 1, 50, 0
+3, 16320, Note_on_c, 1, 45, 100
+3, 16800, Note_on_c, 1, 45, 0
+3, 23520, Note_on_c, 1, 54, 100
+3, 24240, Note_on_c, 1, 54, 0
+3, 24480, Note_on_c, 1, 50, 100
+3, 24600, Note_on_c, 1, 50, 0
+3, 28800, Note_on_c, 1, 47, 100
+3, 29160, Note_on_c, 1, 47, 0
+3, 29280, Note_on_c, 1, 43, 100
+3, 29640, Note_on_c, 1, 43, 0
+3, 30720, Note_on_c, 1, 52, 100
+3, 31080, Note_on_c, 1, 52, 0
+3, 31800, Note_on_c, 1, 47, 100
+3, 31920, Note_on_c, 1, 47, 0
+3, 31920, Note_on_c, 1, 48, 100
+3, 32040, Note_on_c, 1, 48, 0
+3, 32040, Note_on_c, 1, 45, 100
+3, 32160, Note_on_c, 1, 45, 0
+3, 32160, Note_on_c, 1, 47, 100
+3, 32280, Note_on_c, 1, 47, 0
+3, 35040, Note_on_c, 1, 54, 100
+3, 35760, Note_on_c, 1, 54, 0
+3, 36000, Note_on_c, 1, 50, 100
+3, 36120, Note_on_c, 1, 50, 0
+3, 40320, Note_on_c, 1, 47, 100
+3, 40680, Note_on_c, 1, 47, 0
+3, 40800, Note_on_c, 1, 43, 100
+3, 41160, Note_on_c, 1, 43, 0
+3, 42240, Note_on_c, 1, 52, 100
+3, 42600, Note_on_c, 1, 52, 0
+3, 43320, Note_on_c, 1, 47, 100
+3, 43440, Note_on_c, 1, 47, 0
+3, 43440, Note_on_c, 1, 48, 100
+3, 43560, Note_on_c, 1, 48, 0
+3, 43560, Note_on_c, 1, 45, 100
+3, 43680, Note_on_c, 1, 45, 0
+3, 43680, Note_on_c, 1, 47, 100
+3, 43800, Note_on_c, 1, 47, 0
+3, 43800, End_track
+4, 0, Start_track
+4, 0, MIDI_port, 0
+4, 0, Title_t, "Johann Sebastian Bach  (1685-1750)"
+4, 0, Program_c, 2, 42
+4, 0, Control_c, 2, 7, 100
+4, 0, Control_c, 2, 10, 79
+4, 0, Note_on_c, 2, 43, 100
+4, 480, Note_on_c, 2, 43, 0
+4, 480, Note_on_c, 2, 43, 100
+4, 1440, Note_on_c, 2, 43, 0
+4, 1920, Note_on_c, 2, 43, 100
+4, 2400, Note_on_c, 2, 43, 0
+4, 4800, Note_on_c, 2, 38, 100
+4, 5280, Note_on_c, 2, 38, 0
+4, 11520, Note_on_c, 2, 43, 100
+4, 12000, Note_on_c, 2, 43, 0
+4, 12000, Note_on_c, 2, 43, 100
+4, 12960, Note_on_c, 2, 43, 0
+4, 13440, Note_on_c, 2, 43, 100
+4, 13920, Note_on_c, 2, 43, 0
+4, 16320, Note_on_c, 2, 38, 100
+4, 16800, Note_on_c, 2, 38, 0
+4, 23040, Note_on_c, 2, 45, 100
+4, 23280, Note_on_c, 2, 45, 0
+4, 23520, Note_on_c, 2, 45, 100
+4, 24240, Note_on_c, 2, 45, 0
+4, 24480, Note_on_c, 2, 43, 100
+4, 24600, Note_on_c, 2, 43, 0
+4, 24960, Note_on_c, 2, 45, 100
+4, 25320, Note_on_c, 2, 45, 0
+4, 29280, Note_on_c, 2, 36, 100
+4, 29640, Note_on_c, 2, 36, 0
+4, 30720, Note_on_c, 2, 45, 100
+4, 31080, Note_on_c, 2, 45, 0
+4, 34560, Note_on_c, 2, 45, 100
+4, 34800, Note_on_c, 2, 45, 0
+4, 35040, Note_on_c, 2, 45, 100
+4, 35760, Note_on_c, 2, 45, 0
+4, 36000, Note_on_c, 2, 43, 100
+4, 36120, Note_on_c, 2, 43, 0
+4, 36480, Note_on_c, 2, 45, 100
+4, 36840, Note_on_c, 2, 45, 0
+4, 40800, Note_on_c, 2, 36, 100
+4, 41160, Note_on_c, 2, 36, 0
+4, 42240, Note_on_c, 2, 45, 100
+4, 42600, Note_on_c, 2, 45, 0
+4, 42600, End_track
+5, 0, Start_track
+5, 0, MIDI_port, 0
+5, 0, Title_t, "Six Suites for Solo Cello"
+5, 0, Program_c, 3, 42
+5, 0, Control_c, 3, 7, 100
+5, 0, Control_c, 3, 10, 49
+5, 23040, Note_on_c, 3, 38, 100
+5, 23280, Note_on_c, 3, 38, 0
+5, 23520, Note_on_c, 3, 38, 100
+5, 24240, Note_on_c, 3, 38, 0
+5, 34560, Note_on_c, 3, 38, 100
+5, 34800, Note_on_c, 3, 38, 0
+5, 35040, Note_on_c, 3, 38, 100
+5, 35760, Note_on_c, 3, 38, 0
+5, 35760, End_track
+6, 0, Start_track
+6, 0, MIDI_port, 0
+6, 0, Title_t, "--------------------------------------"
+6, 0, End_track
+7, 0, Start_track
+7, 0, MIDI_port, 0
+7, 0, Title_t, "Suite No. 1 in G major - BWV 1007"
+7, 0, End_track
+8, 0, Start_track
+8, 0, MIDI_port, 0
+8, 0, Title_t, "4th Movement: Sarabande"
+8, 0, End_track
+9, 0, Start_track
+9, 0, MIDI_port, 0
+9, 0, Title_t, "--------------------------------------"
+9, 0, End_track
+10, 0, Start_track
+10, 0, MIDI_port, 0
+10, 0, Title_t, "Sequenced with Cakewalk Pro Audio by"
+10, 0, End_track
+11, 0, Start_track
+11, 0, MIDI_port, 0
+11, 0, Title_t, "David J. Grossman - dave@unpronounceable.com"
+11, 0, End_track
+12, 0, Start_track
+12, 0, MIDI_port, 0
+12, 0, Title_t, "This and other Bach MIDI files can be found at:"
+12, 0, End_track
+13, 0, Start_track
+13, 0, MIDI_port, 0
+13, 0, Title_t, "Dave's J.S. Bach Page"
+13, 0, End_track
+14, 0, Start_track
+14, 0, MIDI_port, 0
+14, 0, Title_t, "http://www.unpronounceable.com/bach"
+14, 0, End_track
+15, 0, Start_track
+15, 0, MIDI_port, 0
+15, 0, Title_t, "--------------------------------------"
+15, 0, End_track
+16, 0, Start_track
+16, 0, MIDI_port, 0
+16, 0, Title_t, "Original Filename: cs1-4sar.mid"
+16, 0, End_track
+17, 0, Start_track
+17, 0, MIDI_port, 0
+17, 0, Title_t, "Last Modified: February 22, 1997"
+17, 0, End_track
+0, 0, End_of_file
