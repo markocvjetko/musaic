@@ -6,6 +6,9 @@ from text_nltk_texgen import *
 from File_util import *
 from nltk.lm import MLE
 
+from text_preprocessing import tokenize
+
+
 def generate_text(model, num_words, random_seed=42):
     """
     :param model: An ngram language model from `nltk.lm.model`.

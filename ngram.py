@@ -2,6 +2,8 @@ import glob
 import os
 import random
 
+from text_preprocessing import tokenize, get_ngrams
+
 
 class Ngram():
 
@@ -10,6 +12,7 @@ class Ngram():
         self.contexts = {}
         self.ngram_counter = {}
         self.tokens = set()
+
     def update(self, text):
         tokens = tokenize(text)
         self.tokens.update(tokens)
@@ -57,37 +60,3 @@ class Ngram():
             if probability_sum > rand_num:
                 return token
 
-def tokenize(text):
-    '''
-    Removes leading and trailing whitespaces, then splits the string after every
-    whitespace. Multiple whitespaces result in empty tokens.
-    :param text: Text string to be tokenized.
-    :return: List of tokens.
-    '''
-    return text.strip().split(' ')
-
-def detokenize(tokens, delim=' '):
-    '''
-    Merges tokens into a single string.
-    :param tokens: List of tokens.
-    :return: String of concatenated tokens.
-    '''
-    return ' '.join(tokens)
-
-def get_ngrams(tokens, n):
-    '''
-    
-    Creates ngrams (token tuples) from a given list of tokens.
-    :param tokens: List of tokens 
-    :return: List of ngrams (token tuples)
-    '''
-    ngrams = []
-    for i in range(len(tokens) - n + 1):
-        ngrams.append(tuple(tokens[i:i+n]))
-    return ngrams
-
-def read_file(path):
-    text_file = open(path, "r")
-    data = text_file.read()
-    text_file.close()
-    return data
